@@ -17,7 +17,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div className="container">
-          <h1>Mehadi</h1>
+          <h1>Mehadi Hasan </h1>
           <h3>Hello Dude. React. How are you?</h3>
         </div>
         <div className="music">
